@@ -10,7 +10,7 @@
     width: auto;
   }
 
-  #social {
+  #social a {
     display: inline-block;
   }
 }
