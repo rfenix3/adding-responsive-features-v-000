@@ -3,14 +3,14 @@
     width: 90%;
   }
 
-  #ostritch {
+  #social {
     position: absolute;
     top: 82px;
     right: 4%;
     width: auto;
   }
 
-  @ostritch {
+  @social {
     display: inline-block;
   }
 }
