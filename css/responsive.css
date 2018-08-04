@@ -1,0 +1,16 @@
+@media only screen and (max-width: 1080px){
+  .wrapper {
+    width: 90%;
+  }
+
+  #ostritch {
+    position: absolute;
+    top: 82px;
+    right: 4%;
+    width: auto;
+  }
+
+  @ostritch {
+    display: inline-block;
+  }
+}
